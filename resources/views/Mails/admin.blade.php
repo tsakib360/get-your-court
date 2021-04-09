@@ -1,0 +1,1 @@
+<h3>Your booking is confirm!</h3>
